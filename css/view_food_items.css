@@ -1,0 +1,17 @@
+/* body {
+    margin-top: 150px;
+    background-color: darkseagreen;
+} */
+
+.col-xs-9 {
+    width: 75%;
+    margin-top: 150px;
+    background-color: cornsilk;
+    border-radius: 10px;
+    margin-bottom: 124px;
+}
+
+.col-xs-3 {
+    width: 25%;
+    margin-top: 200px;
+}
